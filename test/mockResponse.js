@@ -1,0 +1,3 @@
+const data = `[{"config": [Object], "data": [Object], "headers": [Object], "request": [ClientRequest], "status": 200, "statusText": "OK"}, {"config": [Object], "data": [Object], "headers": [Object], "request": [ClientRequest], "status": 200, "statusText": "OK"}, {"config": [Object], "data": [Object], "headers": [Object], "request": [ClientRequest], "status": 200, "statusText": "OK"}]`;
+
+export default data;
