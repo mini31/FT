@@ -1,6 +1,6 @@
 import requestMultipleUrls from './../src/requestMultipleUrls.js';
 import { URLs } from './../src/utilities/constants';
-import data  from './mockResponse';
+import data from './mockResponse';
 
 describe('Test requestMultipleUrls function', () => {
 

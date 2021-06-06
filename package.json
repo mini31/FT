@@ -5,8 +5,6 @@
   "author": "",
   "dependencies": {
     "axios": "^0.21.1",
-    "babel-core": "^7.0.0-bridge.0",
-    "babel-jest": "^27.0.2",
     "regenerator-runtime": "^0.13.7"
   },
   "scripts": {
