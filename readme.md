@@ -36,7 +36,7 @@ npm install
 
 ```sh
 # Starts the built application
-npm start
+npm run start
 ```
 ## Test
 
